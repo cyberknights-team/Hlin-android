@@ -1,4 +1,4 @@
 # Hlin-android
 <li>Its one to many file sharing app
-<li>Acess keys
+<li>Access keys
 <li>Password,Geo,network locks
